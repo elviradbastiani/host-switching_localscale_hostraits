@@ -1,6 +1,4 @@
 # host-switching_localscale_hostraits
-host-switching_localscale_hostraits
-
 
 "Can host traits facilitate host-switching events by parasites?"
 
